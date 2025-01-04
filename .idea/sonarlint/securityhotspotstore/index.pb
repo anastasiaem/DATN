@@ -11,3 +11,5 @@ J
 tests/time-capsule.test.ts,e/e/eeb92fd4b23b420b9244914bb979dbe88b696c27
 P
  tests/preservation-token.test.ts,5/d/5d9e43b8b51191c2ade3571304244ee8dab51d1d
+N
+tests/time-capsule-dao.test.ts,1/c/1c5ee6e875bcfff6b5cfe39d09e6adf39be7c0a5
