@@ -9,3 +9,5 @@ O
 contracts/time-capsule-dao.clar,c/9/c91463292bcbc698e63048497b15d34126571d5c
 J
 tests/time-capsule.test.ts,e/e/eeb92fd4b23b420b9244914bb979dbe88b696c27
+P
+ tests/preservation-token.test.ts,5/d/5d9e43b8b51191c2ade3571304244ee8dab51d1d
